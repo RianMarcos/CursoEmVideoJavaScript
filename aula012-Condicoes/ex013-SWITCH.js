@@ -16,7 +16,7 @@ console.log(diaSem)
 switch(diaSem){
     case 0:
         console.log("Dom")
-        break //obrigatório
+        break //obrigatório!
     case 1:
         console.log("Seg")
         break
